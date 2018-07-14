@@ -1,5 +1,5 @@
 #!/bin/bash
-# Advantage Roller, ecp 07142018
+# Advantage Roller, kb3mpn 07142018
 #
 D201=`shuf -i1-20 -n1`
 D202=`shuf -i1-20 -n1`
